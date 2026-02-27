@@ -281,11 +281,12 @@ footer {
 ```
 
 ## OUTPUT
-<img width="1888" height="782" alt="image" src="https://github.com/user-attachments/assets/1c698fad-f8fd-4467-b240-8a3a9f487483" />
 
 <img width="1887" height="916" alt="image" src="https://github.com/user-attachments/assets/51ef7dcf-b7e3-406a-8b29-72cb4994f3ff" />
 
 <img width="1872" height="901" alt="image" src="https://github.com/user-attachments/assets/5d543734-34db-4e29-be07-e07ededd5416" />
+
+<img width="1888" height="782" alt="image" src="https://github.com/user-attachments/assets/1c698fad-f8fd-4467-b240-8a3a9f487483" />
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
